@@ -110,6 +110,10 @@ const products = [
    { id:30, name:"Wall Light 11", code:"WL-011", category:"wall",
     image:"https://i.ibb.co/HfBbFsHR/Whats-App-Image-2026-04-26-at-11-04-53-PM-1.jpg",
     desc:"Premium wall light with elegant detailing. Adds a sophisticated touch to any wall." },
+   
+    { id:31, name:"Wall Light 12", code:"WL-012", category:"wall",
+    image:"https://i.ibb.co/QF8LjHXy/Whats-App-Image-2026-04-26-at-11-04-53-PM.jpg",
+    desc:"Premium wall light with elegant detailing. Adds a sophisticated touch to any wall." },
 
   /* ── Hanging Lights ──────────────────────────────────────── */
   { id:40, name:"Hanging Light 1", code:"HL-001", category:"hanging",
