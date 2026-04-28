@@ -20,15 +20,15 @@ const products = [
     desc:"Clean linear silhouette with milky diffuser. A modern statement for any gate or entrance." },
 
   { id:4,  name:"Gate Light 4",  code:"GL-004", category:"gate",
-    image:"https://i.ibb.co/JjsDj1fy/Whats-App-Image-2026-04-26-at-11-05-09-PM-2.jpg",
+    image:"https://i.ibb.co/ZzY607xW/Whats-App-Image-2026-04-28-at-4-58-19-PM-1.jpg",
     desc:"Sleek design with clear panel. Delivers crisp, defined illumination at your entrance." },
 
   { id:5,  name:"Gate Light 5",  code:"GL-005", category:"gate",
-    image:"https://i.ibb.co/Z6S3bXKk/Whats-App-Image-2026-04-26-at-11-05-08-PM-1.jpg",
+    image:"https://i.ibb.co/mCJFyKrx/Whats-App-Image-2026-04-26-at-11-05-03-PM.jpg",
     desc:"Premium body paired with a clear shade. A timeless design that complements any architecture." },
 
   { id:6,  name:"Gate Light 6",  code:"GL-006", category:"gate",
-    image:"https://i.ibb.co/rKyXdq3G/Whats-App-Image-2026-04-28-at-4-58-16-PM.jpg",
+    image:"https://i.ibb.co/S4rMXCdG/Whats-App-Image-2026-04-28-at-4-58-19-PM-2.jpg",
     desc:"Sophisticated frame with milky diffuser for a soft, inviting entrance glow." },
 
   { id:7,  name:"Gate Light 7",  code:"GL-007", category:"gate",
