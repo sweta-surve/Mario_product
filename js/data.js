@@ -28,7 +28,7 @@ const products = [
     desc:"Premium body paired with a clear shade. A timeless design that complements any architecture." },
 
   { id:6,  name:"Gate Light 6",  code:"GL-006", category:"gate",
-    image:"https://i.ibb.co/8Dsfd7jQ/Whats-App-Image-2026-04-26-at-11-05-08-PM.jpg",
+    image:"https://i.ibb.co/rKyXdq3G/Whats-App-Image-2026-04-28-at-4-58-16-PM.jpg",
     desc:"Sophisticated frame with milky diffuser for a soft, inviting entrance glow." },
 
   { id:7,  name:"Gate Light 7",  code:"GL-007", category:"gate",
