@@ -80,7 +80,7 @@ const products = [
     desc:"Minimalist wall light with clear panel. Clean lines that complement any decor." },
 
   { id:23, name:"Wall Light 4",  code:"WL-004", category:"wall",
-    image:"https://i.ibb.co/SY1cR5d/Whats-App-Image-2026-04-26-at-11-04-55-PM-1.jpg",
+    image:"https://i.ibb.co/Zpjq1TnL/Whats-App-Image-2026-04-26-at-11-04-55-PM.jpg",
     desc:"Wall light with milky diffuser. Diffused glow that creates a calm, serene ambiance." },
 
   { id:24, name:"Wall Light 5",  code:"WL-005", category:"wall",
@@ -88,11 +88,11 @@ const products = [
     desc:"Classic construction with milky shade. Versatile elegance that suits every room." },
 
   { id:25, name:"Wall Light 6",  code:"WL-006", category:"wall",
-    image:"https://i.ibb.co/YFSY9Tm9/Whats-App-Image-2026-04-26-at-11-04-54-PM-2.jpg",
+    image:"https://i.ibb.co/gqXdzmP/Whats-App-Image-2026-04-26-at-11-04-55-PM-1.jpg",
     desc:"Wall light with clear diffuser — bright, focused illumination with a polished finish." },
 
   { id:26, name:"Wall Light 7",  code:"WL-007", category:"wall",
-    image:"https://i.ibb.co/PswFngyS/Whats-App-Image-2026-04-26-at-11-04-54-PM-1.jpg",
+    image:"https://i.ibb.co/fzgXB4Vx/Whats-App-Image-2026-04-26-at-11-04-54-PM.jpg",
     desc:"Dramatic wall light with clear panel. Bold character for accent and feature walls." },
 
   { id:27, name:"Wall Light 8",  code:"WL-008", category:"wall",
