@@ -60,9 +60,4 @@ mario-project/
 image: "images/products/your-photo.jpg"
 ```
 
-## How to deploy on Netlify
 
-1. Upload all photos to [imgbb.com](https://imgbb.com) → copy direct links
-2. Paste links into `js/data.js` image fields
-3. Go to [netlify.com](https://netlify.com) → drag the entire `mario-project` folder
-4. Done — your site is live!
