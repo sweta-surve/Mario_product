@@ -96,15 +96,19 @@ const products = [
     desc:"Dramatic wall light with clear panel. Bold character for accent and feature walls." },
 
   { id:27, name:"Wall Light 8",  code:"WL-008", category:"wall",
-    image:"https://i.ibb.co/RkFgZzGD/Whats-App-Image-2026-04-26-at-11-04-54-PM.jpg",
+    image:"https://i.ibb.co/VGRnKvs/Whats-App-Image-2026-04-28-at-6-01-36-PM.jpg",
     desc:"Luxurious wall light with milky diffuser. Warm, moody ambiance for premium interiors." },
 
   { id:28, name:"Wall Light 9",  code:"WL-009", category:"wall",
-    image:"https://i.ibb.co/W4GMxw27/Whats-App-Image-2026-04-26-at-11-04-53-PM-1.jpg",
+    image:"https://i.ibb.co/k2ngvs4h/Whats-App-Image-2026-04-28-at-6-01-35-PM.jpg",
     desc:"Handcrafted wall light with refined finish. Perfect for hallways and living spaces." },
 
   { id:29, name:"Wall Light 10", code:"WL-010", category:"wall",
-    image:"https://i.ibb.co/QF8LjHXy/Whats-App-Image-2026-04-26-at-11-04-53-PM.jpg",
+    image:"https://i.ibb.co/kVQ5fXTd/Whats-App-Image-2026-04-26-at-11-04-54-PM-1.jpg",
+    desc:"Premium wall light with elegant detailing. Adds a sophisticated touch to any wall." },
+
+   { id:30, name:"Wall Light 11", code:"WL-011", category:"wall",
+    image:"https://i.ibb.co/HfBbFsHR/Whats-App-Image-2026-04-26-at-11-04-53-PM-1.jpg",
     desc:"Premium wall light with elegant detailing. Adds a sophisticated touch to any wall." },
 
   /* ── Hanging Lights ──────────────────────────────────────── */
