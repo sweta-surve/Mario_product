@@ -8,7 +8,7 @@ const products = [
 
   /* ── Gate Lights ─────────────────────────────────────────── */
   { id:1,  name:"Gate Light 1",  code:"GL-001", category:"gate",
-    image:"https://i.ibb.co/gb47pJjJ/Whats-App-Image-2026-04-26-at-11-05-09-PM.jpg",
+    image:"https://i.ibb.co/4Z2RxY8D/Whats-App-Image-2026-04-26-at-11-04-59-PM-1.jpg",
     desc:"Elegant handcrafted gate light. Casts a warm, soft glow perfect for any entrance." },
 
   { id:2,  name:"Gate Light 2",  code:"GL-002", category:"gate",
